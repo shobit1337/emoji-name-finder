@@ -4,7 +4,7 @@ Emoji finder is a react app. It finds out the name of any emoji that we give to 
 
 🔗Live Link🔗 [Emoji Name Finder App](https://emoji-name-finder.netlify.app/)
 
-> Note: This project was build by me from scratch. It is markEight project for the admission process in neogcamp by Tanay Pratab more info at: [neog.camp](https://neog.camp)
+> Note: This project was build by me from scratch. It is markEight project for the admission process in neogcamp by Tanay Pratap, more info at: [neog.camp](https://neog.camp)
 
 # Stack
 
